@@ -1,5 +1,5 @@
-print ('Digite um texto:')
-frase = input()
+print ('Digite uma texto:')
+frase = input().lower()
 
 i = 0
 qtd_apareceu_mais = 0
