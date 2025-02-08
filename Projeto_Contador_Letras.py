@@ -1,4 +1,4 @@
-print ('Digite uma frase:')
+print ('Digite uma texto:')
 frase = input()
 
 i = 0
